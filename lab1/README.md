@@ -1,3 +1,4 @@
-**Lab 1**
+**Lab N1**
 <br>
 Word2vec Embedding
+
