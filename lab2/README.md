@@ -1,0 +1,6 @@
+#### Task 1 (deadline 19.02.2020 24:00)
+* Find your name on the spreadsheet https://docs.google.com/spreadsheets/d/1RR2I6toCkebbGU1UK83HS70Ru_l0_o-nnZIHyiFB0No/edit?usp=sharing. In opposite of your name there are 24 words of hyponyms, you have to insert five corresponding hypernyms next to them. Examples of hyponyms and hyperonyms relationship you can find above in the current Jupiter notebook.
+* Find for each pair of hyponyms and hypernyms a corresponding snippet of a text with their mentions. The source of the text can be any free resources, e.g., Wikipedia, Google, Yandex, others. You should save the snippets and their URLs within the lab2 folder in your NLP git-repo with .csv file-extension in a single file.
+
+#### Task 2 (deadline 26.02.2020 24:00)
+* It would be best if you created a pandas DataFrame of the texts from the previous task. And apply to the DataFrame the function 'get_hyperonyms,' which must return the list of the corresponding hypernyms from the text automatically. If there are errors or misses, you should fix them in the code for your case of the 24 words. Nevertheless, it is strictly prohibited to use hard coding. Save your notebook with parser code within the lab2 folder in your NLP git-repo.
