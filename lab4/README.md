@@ -7,6 +7,8 @@ For training, you can use a collection of texts and their corresponding grades. 
 The square root of the root mean square error (Root Mean Squared Error) is used as an estimate.
 
 You can briefly describe the solution in Read.me file at lab folder. The information will be useful to the instructor of the course in order to gain an idea of the methods and approaches used. Notebook must contain classification report, namely the comparison between the output of classificator and target var.
+
+
 Sample Input:
 
 По сравнению с предыдущими произведениями гораздо слабее. Хотя динамика событий осталась, но сама идея и ее воплощение...... Очень жаль.
