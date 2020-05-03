@@ -10,7 +10,9 @@ You can briefly describe the solution in Read.me file at lab folder. The informa
 Sample Input:
 
 По сравнению с предыдущими произведениями гораздо слабее. Хотя динамика событий осталась, но сама идея и ее воплощение...... Очень жаль.
+
 Это просто СУПЕР... Давно ничего подобного не читала.
+
 Sample Output:
 
 2
