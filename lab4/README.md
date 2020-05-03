@@ -14,4 +14,5 @@ Sample Input:
 Sample Output:
 
 2
+
 8
